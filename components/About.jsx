@@ -20,7 +20,7 @@ const About = () => {
             he task at hand.
           </p>
           <p className='py-2 text-gray-600'>
-            I have served as an IT Student Aide at Leeward Community College, where I assisted staff, faculty and students with 
+            I have served as an IT Help Desk at Leeward Community College, where I assisted staff, faculty and students with 
             technical issues on campus and remotely. My responsibilities included addressing hardware, network, and software issues, configuring 
             new devices, deploying new devices and peripherals, maintaining software and operating system updates and supervising exams in the 
             college’s Testing Center. Additionally, I also worked as a Data Administrator Intern at Mopak Group, where I oversaw multiple 
