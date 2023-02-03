@@ -88,7 +88,7 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
-            IT Student Aide I 
+            Information Technology Help Desk 
             </span>
             <span className='px-2'>|</span>Hawaii, United States
           </p>
