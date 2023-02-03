@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Batuhan | Full-Stack Developer</title>
+        <title>Batuhan Satilmis | Full-Stack Developer</title>
         <meta name="description" content="My focus is on creating front-end web applications that are responsive and work seamlessly with back-end technologies." />
         <link rel="icon" href="/fav.png" />
       </Head>
