@@ -92,7 +92,7 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span>Hawaii, United States
           </p>
-          <p className='py-1 italic'>IT Help Desk (Apr 2021 - Jul 2022)</p>
+          <p className='py-1 italic'>Leeward Community College (Apr 2021 - Jun 2022)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Assisting staff and faculty with technology on campus.
