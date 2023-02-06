@@ -61,7 +61,7 @@ const resume = () => {
           <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
           <p className='py-2'>
             <span className='font-bold'>Technical Skills</span>
-            <span className='px-2'>|</span>Front-End Web Developer
+            <span className='px-2'>|</span>Full-Stack Web Developer
             <span className='px-2'>|</span> HTML
             <span className='px-2'>|</span>CSS
             <span className='px-2'>|</span>Javascript
